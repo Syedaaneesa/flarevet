@@ -55,9 +55,11 @@ The main efforts included:
 
 ## 📸 Project Screenshots
 
-| Home | About | Podcast |
-|------|--------|----------|
-| ![Home](https://github.com/Syedaaneesa/flarevet/blob/main/FlareVet-Veterinary-Podcast-for-Veterinary-Professionals-%E2%80%93-Veterinary-Podcast-for-Veterinary-Professionals-10-07-2025_08_25_PM.png) | ![Videos](https://github.com/Syedaaneesa/flarevet/blob/main/FlareVet-Veterinary-Podcast-for-Veterinary-Professionals-–-Veterinary-Podcast-for-Veterinary-Professionals-10-07-2025_08_26_PM.png) | ![Podcast](https://github.com/Syedaaneesa/flarevet/blob/main/Podcast--10-07-2025_08_28_PM.png) |
+| Home |
+|------|
+| ![Home](https://github.com/Syedaaneesa/flarevet/blob/main/FlareVet-Veterinary-Podcast-for-Veterinary-Professionals-%E2%80%93-Veterinary-Podcast-for-Veterinary-Professionals-10-07-2025_08_25_PM.png) 
+| ![Videos](https://github.com/Syedaaneesa/flarevet/blob/main/FlareVet-Veterinary-Podcast-for-Veterinary-Professionals-–-Veterinary-Podcast-for-Veterinary-Professionals-10-07-2025_08_26_PM.png) 
+| ![Podcast](https://github.com/Syedaaneesa/flarevet/blob/main/Podcast--10-07-2025_08_28_PM.png) |
 
 ---
 
