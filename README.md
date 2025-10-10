@@ -76,12 +76,11 @@ The main efforts included:
 
 ## 📬 Contact
 
-If you’re interested in a fully customized **WordPress + Elementor** website like this, feel free to connect!
+If you’re interested in WordPress website design, Elementor customization, or full project development — feel free to reach out!
 
-**👩‍💻 Developer:** Syeda Aneesa  
-**📧 Email:** [your-email@example.com]  
-**🌍 Portfolio:** [your-portfolio-link.com]  
-**💼 GitHub:** [github.com/Syedaaneesa](https://github.com/Syedaaneesa)
+**👤 Developer:** Syeda Aneesa  
+**📧 Email:** saneesa@zeestmedia.com]  
+**🌍 Portfolio:** https://aneesa.zeestmedia.com
 
 ---
 
