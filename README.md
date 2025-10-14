@@ -14,7 +14,7 @@ This project demonstrates my complete **WordPress development process**, from de
 
 ## 🧩 Core Features
 
-- 🎨 **Custom Elementor design** for each major section (Home, About, Podcast, Blog, Contact, etc.)  
+- 🎨 **Custom Elementor design** for each major section  
 - ⚙️ **Dynamic content integration** for podcasts and blogs  
 - 🧠 **AI-focused theme adaptation** to reflect the brand identity of VetMedAI  
 - 📱 **Fully responsive design** for mobile, tablet, and desktop  
@@ -26,7 +26,7 @@ This project demonstrates my complete **WordPress development process**, from de
 
 ## 🧱 Tools & Technologies Used
 
-- **Platform:** WordPress (PHP + MySQL)
+- **Platform:** WordPress
 - **Builder:** Elementor Pro  
 - **Languages:** HTML, CSS, JavaScript, PHP  
 - **Plugins Used:**  
