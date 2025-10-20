@@ -42,8 +42,7 @@ This project showcases my end-to-end WordPress development workflow — from ini
 
 ## 💪 Efforts & Contributions
 
-This website was **fully designed, customized, and deployed** by me with attention to both aesthetics and performance.  
-The main efforts included:
+I personally designed, customized, and deployed this website with a strong focus on both visual appeal and performance optimization. Key highlights include:
 
 - Crafting a unique, AI-driven design identity  
 - Building Elementor templates for each page  
