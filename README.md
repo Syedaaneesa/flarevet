@@ -8,7 +8,7 @@ A professionally developed **WordPress website** for [VetMedAI](https://vetmedai
 
 ## 🚀 Project Overview
 
-This project showcases my end-to-end WordPress development workflow — from initial design setup to final deployment. It emphasizes performance, a clean and modern design, and seamless content management through Elementor and custom WordPress functionalities.
+This project highlights my complete WordPress development process — starting from design planning to full deployment. It focuses on delivering fast performance, a modern and polished UI, and smooth content management using Elementor along with custom WordPress features.
 
 ---
 
@@ -42,7 +42,7 @@ This project showcases my end-to-end WordPress development workflow — from ini
 
 ## 💪 Efforts & Contributions
 
-I personally designed, customized, and deployed this website with a strong focus on both visual appeal and performance optimization. Key highlights include:
+I independently designed, customized, and launched this website, prioritizing both aesthetic appeal and performance efficiency. Key highlights include:
 
 - Crafting a unique, AI-driven design identity  
 - Building Elementor templates for each page  
