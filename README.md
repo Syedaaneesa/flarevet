@@ -1,4 +1,4 @@
-# 🐾 VetMedAI — WordPress Project
+# 🐾 VetMedAI | WordPress Project
 
 ![Home](https://github.com/Syedaaneesa/flarevet/blob/main/FlareVet-Veterinary-Podcast-for-Veterinary-Professionals-%E2%80%93-Veterinary-Podcast-for-Veterinary-Professionals-10-07-2025_08_25_PM.png) 
 
