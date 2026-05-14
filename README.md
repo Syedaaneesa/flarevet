@@ -9,8 +9,7 @@ A professionally developed **WordPress website** for [VetMedAI](https://vetmedai
 ##  Project Overview
 
 
-This project showcases my complete WordPress development workflow, starting from initial design planning to final deployment. It focuses on creating a modern, responsive, and visually appealing website that delivers a smooth user experience across all devices.
-The development process includes structured layout design, UI/UX improvements, and building pages using Elementor along with custom WordPress functionality where required. Special attention is given to performance optimization, clean design, and efficient content management to ensure the website is both fast and easy to maintain.
+This project highlights my complete WordPress development workflow, from design planning to final deployment. The website was built with a modern, responsive, and user-friendly approach using Elementor and custom WordPress functionality. Focus was placed on clean UI/UX, performance optimization, and efficient content management to ensure a fast, visually appealing, and easy-to-maintain website across all devices.
 
 ---
 
