@@ -87,10 +87,10 @@ Conducted thorough testing across browsers and devices for full compatibility an
 
 If you need professional WordPress website design, Elementor customization, or complete project development, I’d be glad to connect and discuss your goals in detail. Whether it’s building a website from scratch or enhancing an existing one, I focus on delivering responsive, modern, and user-friendly solutions tailored to your needs. From design to deployment, I ensure quality, performance, and a smooth user experience.
 
-** Developer:** Syeda Aneesa
+** Developer** :  Syeda Aneesa
 
-** Email:** saneesa@zeestmedia.com
+** Email** : saneesa@zeestmedia.com
 
-** Portfolio:** https://aneesa.zeestmedia.com
+** Portfolio** : https://aneesa.zeestmedia.com
 
 If you found this project helpful or inspiring, please consider giving it a star!
