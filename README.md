@@ -11,10 +11,8 @@ Website Live Preview: [VetMedAI](https://vetmedai.com)
 
 ##  Project Overview
 
+This project showcases my complete WordPress development process, from initial planning and design to final deployment. Built with a modern, responsive, and user-focused approach, the website combines Elementor with custom WordPress functionality to deliver a seamless browsing experience across all devices. Special attention was given to clean UI/UX design, performance optimization, and structured content management, ensuring the site remains fast, visually engaging, and easy to manage. The result is a professional, scalable, and high-performing website designed to meet both user expectations and business goals.
 
-This project showcases my complete WordPress development process, from initial planning and design to final deployment. Built with a modern, responsive, and user-focused approach, the website combines Elementor with custom WordPress functionality to deliver a seamless browsing experience across all devices.
-
-Special attention was given to clean UI/UX design, performance optimization, and structured content management, ensuring the site remains fast, visually engaging, and easy to manage. The result is a professional, scalable, and high-performing website designed to meet both user expectations and business goals.
 ---
 
 ##  Core Features
