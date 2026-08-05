@@ -6,14 +6,14 @@ A professionally developed **WordPress website** for VetMedAI, designed to empow
 
 Website Live Preview: [VetMedAI](https://vetmedai.com)
 
----
+
 
 
 ##  Project Overview
 
 This project showcases my complete WordPress development process, from initial planning and design to final deployment. Built with a modern, responsive, and user-focused approach, the website combines Elementor with custom WordPress functionality to deliver a seamless browsing experience across all devices. Special attention was given to clean UI/UX design, performance optimization, and structured content management, ensuring the site remains fast, visually engaging, and easy to manage. The result is a professional, scalable, and high-performing website designed to meet both user expectations and business goals.
 
----
+
 
 ##  Core Features
 
@@ -25,7 +25,7 @@ This project showcases my complete WordPress development process, from initial p
 -  **Optimized performance** through caching and image compression  
 -  **Enhanced security** using key WordPress plugins  
 
----
+
 
 ##  Tools & Technologies Used
 
@@ -41,7 +41,7 @@ This project showcases my complete WordPress development process, from initial p
 - **Version Control:** Git & GitHub  
 - **Hosting:** cPanel-based WordPress Hosting  
 
----
+
 
 ##  Efforts & Contributions
 
@@ -62,7 +62,7 @@ Configured SEO and performance plugins for improved scalability and visibility.
 Conducted thorough testing across browsers and devices for full compatibility and smooth functionality.
 
 
----
+
 
 
 
@@ -77,7 +77,7 @@ Conducted thorough testing across browsers and devices for full compatibility an
 | ![screenshot1](https://github.com/Syedaaneesa/flarevet/blob/main/FlareVet-Veterinary-Podcast-for-Veterinary-Professionals-%E2%80%93-Veterinary-Podcast-for-Veterinary-Professsionals-10-07-2025_08_26_PM.png)
 
 
----
+
 
 ##  Contact
 
